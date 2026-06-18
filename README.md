@@ -1,16 +1,25 @@
-# React + Vite
+# Rock Paper Scissors (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun and interactive Rock Paper Scissors game built using React.js. The player competes against the computer, with results and scores updated in real time.
 
-Currently, two official plugins are available:
+## Features
+* Play Rock, Paper, Scissors against the computer
+* Random computer choice generation
+* Real-time score tracking for player and computer
+* Dynamic result messages (Win / Lose / Draw)
+* Simple and responsive UI
+* Built with React hooks and functional components
+* Technologies Used
+* React.js
+* JavaScript (ES6+)
+* Bootstrap 5 / CSS3
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Learning Objectives
 
-## React Compiler
+#### This project demonstrates:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React state management (useState)
+* Event handling in React
+* Conditional rendering
+* Basic game logic implementation
+* UI updates based on user interaction
